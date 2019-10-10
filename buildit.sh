@@ -1,1 +1,1 @@
-docker build -t jenkins-chrome:1.0.0 . 
+docker build -t donhenton/docker-headless-chrome:latest . 
